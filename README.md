@@ -1,6 +1,8 @@
 # Excel Dashboard for Coffee Sales Analysis
 
 
+![Alt text for the image](https://github.com/Pianomello/Coffee_Sales_analysis/blob/main/Screenshot%202025-06-03%20212937.png)
+
 ## Overview
 
 I have developed a dynamic and interactive Coffee Sales Dashboard in Microsoft Excel to analyze product performance, customer behavior, and sales trends. This project involved end-to-end data transformation, cleaning, and visualization by integrating multiple datasets (orders, customers, products). The final dashboard enables users to identify top-selling coffee types, key customers, and sales distribution by country and time.
@@ -18,6 +20,8 @@ segments.
 ## Conclusion
 This Coffee Sales Dashboard shows how Excel can be transformed into a full-featured data
 analytics tool through its formulas, clean data organization, and thoughtful design.
+
+
 
 
 
