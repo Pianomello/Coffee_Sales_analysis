@@ -22,7 +22,7 @@ This Coffee Sales Dashboard shows how Excel can be transformed into a full-featu
 analytics tool through its formulas, clean data organization, and thoughtful design.
 
 
-
+![Alt text for the image](https://github.com/Pianomello/Coffee_Sales_analysis/blob/main/Screenshot%202025-06-03%20212221.png)
 
 
 ## Technologies Used
